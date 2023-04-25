@@ -1,2 +1,2 @@
-# Data_Science_Storytelling_Using_SpotifyData
-In this project I will be using data analysis, hypothesis formulation, and data visualization to tell a story about the dataset.
+# Data Science Storytelling Using Spotify Dataset
+In this project I will be using data analysis, hypothesis formulation, and data visualization to tell a story about the dataset. I will be using the Spotify dataset which comprises of 2,017 songs that have been downloaded from Spotify, accompanied by 16 distinct characteristics. These characteristics primarily pertain to song attributes such as tempo, energy, and danceability, among others. The target variable of interest is a binary indicator that represents whether a given song has been liked or disliked by a single user, denoted by 1 or 0, respectively. The aim of this study is to identify the song characteristics that exhibit predictability with respect to the user's likeability.
